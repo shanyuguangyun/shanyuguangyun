@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shanyuguangyun)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiuhuarfengwen@gmail.com)
 
-欢迎来到我的主页，我是山雨光云。 是不是很好听的名字，来源是我大学时某个雨夜看到对面的山峰映在城市的灯光里显得静谧又梦幻，脑里一下蹦出了这个词，一直沿用了下来。
+欢迎来到我的主页，我是山雨光云。
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
